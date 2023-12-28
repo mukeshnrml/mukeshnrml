@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything, i am happy to help**
 
-- 📫 How to reach me **nirmalmukesh200@gmail.com**
+- 📫 How to reach me **mukeshnirmal@outlook.com**
 
 - 📄 Know about my experiences [https://mukeshnrml.github.io/Profile/](https://mukeshnrml.github.io/Profile/)
 
