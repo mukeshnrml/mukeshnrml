@@ -18,7 +18,9 @@
 <a href="https://twitter.com/mukeshnrml?t=igbup9jzqa038xp0bhiiow&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukeshnrml?t=igbup9jzqa038xp0bhiiow&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-nirmal-34085223b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-nirmal-34085223b/" height="30" width="40" /></a>
 <a href="https://fb.com/mukeshnirmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukeshnirmal" height="30" width="40" /></a>
+  <a href="https://fb.com/mukeshnirmal" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png)" alt="mukeshnirmal" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mukesh_nrml/?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mukesh_nrml/?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
