@@ -27,20 +27,17 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code> 
+<code><a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/15474/15474204.png" alt="TypeScript"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/16066/16066077.png"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/9307/9307266.png"></a></code>
+<code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/882/882829.png" alt="redux" height="30"></a></code>
+<code><a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 </details>
 <br>
 
@@ -50,11 +47,11 @@
 </summary>
    <br>
 
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/8422/8422177.png"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/9307/9307254.png"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/16511/16511234.png"></a></code>
 </details>
 <br>
 
@@ -81,19 +78,22 @@
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/mukesh-nirmal-34085223b/">
-   <img align="left" alt=" Mukesh Nirmal | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt=" Mukesh Nirmal | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/128/3128/3128219.png" />
   </a>
   <a href="mailto:mukeshnirmal@outlook.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/128/646/646094.png" />
   </a>
   <a href="https://medium.com/@mukeshnirmal_66904">
     <img align="left" alt="mukeshnrml | medium" width="24px" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" />
   </a>
    <a href="https://github.com/mukeshnrml">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://cdn-icons-png.flaticon.com/128/1051/1051377.png" />
   </a>
   <a href="https://mukeshnrml.github.io/profile_/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/128/10378/10378319.png" />
+  </a>
+  <a href="https://stackoverflow.com/users/22811324/mukesh-nirmal">
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/128/15527/15527535.png" />
   </a>
   <br>
   
