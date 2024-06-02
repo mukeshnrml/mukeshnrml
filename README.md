@@ -28,16 +28,17 @@
 </summary>
    <br>
 <code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code> 
-<code><a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/15474/15474204.png" alt="TypeScript"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.svgrepo.com/show/478223/css.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.svgrepo.com/show/510028/javascript-file.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.svgrepo.com/show/374016/python.svg" alt="TypeScript"></a></code>
 <code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/16066/16066077.png"></a></code>
 <code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/9307/9307266.png"></a></code>
 <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/882/882829.png" alt="redux" height="30"></a></code>
-<code><a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
-<code><a href="#" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
+<code><a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/473731/mysql.svg" alt="sass"  height="30"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.svgrepo.com/show/439231/mongodb.svg"></a></code>
 <code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.svgrepo.com/show/353498/bootstrap.svg"></a></code>
 </details>
 <br>
 
@@ -78,22 +79,22 @@
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/mukesh-nirmal-34085223b/">
-   <img align="left" alt=" Mukesh Nirmal | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/128/3128/3128219.png" />
+   <img align="left" alt=" Mukesh Nirmal | Linkedin" width="24px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
   </a>
   <a href="mailto:mukeshnirmal@outlook.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/128/646/646094.png" />
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.svgrepo.com/show/530453/mail-reception.svg" />
   </a>
   <a href="https://medium.com/@mukeshnirmal_66904">
-    <img align="left" alt="mukeshnrml | medium" width="24px" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" />
+    <img align="left" alt="mukeshnrml | medium" width="24px" src="https://www.svgrepo.com/show/431116/medium.svg" />
   </a>
    <a href="https://github.com/mukeshnrml">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://cdn-icons-png.flaticon.com/128/1051/1051377.png" />
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
   </a>
   <a href="https://mukeshnrml.github.io/profile_/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/128/10378/10378319.png" />
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/275884/portfolio-travel.svg" />
   </a>
   <a href="https://stackoverflow.com/users/22811324/mukesh-nirmal">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://cdn-icons-png.flaticon.com/128/15527/15527535.png" />
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" />
   </a>
   <br>
   
