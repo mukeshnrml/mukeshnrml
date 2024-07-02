@@ -47,8 +47,7 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshnrml" alt="mukeshnrml" /></a> </p>
-   <br>
+   
 
 <code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="#" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></a></code>
@@ -59,7 +58,8 @@
 <br>
 
 ---
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshnrml" alt="mukeshnrml" /></a> </p>
+<br>
 <details open="">
 <summary>
  📔 GitHub Stats:
